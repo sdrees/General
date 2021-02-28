@@ -1,29 +1,70 @@
-["2.0"]
-EzXML = "0.0-0.9"
-julia = "0.6-0.7"
+["2-2.1"]
+NCDatasets = "0.0.0 - 0.9"
 
-["2.0-2.1"]
-NCDatasets = "0.0-0.8"
+["2-2.1.0"]
+Interpolations = "0-0.8"
 
-["2.0-2.1.0"]
-Interpolations = "0.0-0.8"
+["2-2.3"]
+Compat = "0-2"
+Mustache = "0.3.2 - 0.5"
+julia = "0.6-1"
 
-["2.0-2.3"]
-DataStructures = "0.2-0.15"
-HTTP = "0.0-0.8"
-Missings = "0.2-0.4"
-Mustache = "0.3.2-0.5"
-SpecialFunctions = "0.0-0.7"
-ZipFile = "0.1-0.8"
+["2-2.4"]
+DataStructures = "0.0.0 - 0.17"
+EzXML = "0.7.3 - 0.9"
+HTTP = "0.0.0 - 0.8"
+Missings = "0.0.0 - 0.4"
+SpecialFunctions = "0.0.0 - 0.8"
+StatsBase = "0.0.0 - 0.33"
+ZipFile = "0.0.0 - 0.8"
 
-["2.1-2.3"]
-Compat = "0.0-2.1"
-EzXML = "0.7.3-0.9"
-StatsBase = "0.1-0.29"
-julia = "0.6-1.2"
+["2.1.1-2.4"]
+Interpolations = "0.0.0 - 0.12"
 
-["2.1.1-2.3"]
-Interpolations = "0.0-0.11"
+["2.2-2.4"]
+NCDatasets = "0.5.1 - 0.9"
 
-["2.2-2.3"]
-NCDatasets = "0.5.1-0.8"
+["2.4"]
+Compat = "0.0.0 - 3"
+Mustache = "0.3.2 - 1"
+
+["2.4-2"]
+julia = ["0.7", "1"]
+
+["2.5"]
+NCDatasets = "0.6-0.9"
+
+["2.5-2"]
+Missings = "0.4"
+Mustache = "1"
+
+["2.5-2.6.1"]
+DataStructures = "0.17"
+
+["2.5-2.6.3"]
+HTTP = "0.8"
+Interpolations = "0.12"
+
+["2.5.0"]
+EzXML = "0.8-0.9"
+SpecialFunctions = "0.8"
+ZipFile = "0.8"
+
+["2.5.1-2"]
+EzXML = ["0.8-0.9", "1.1.0-1"]
+ZipFile = "0.8-0.9"
+
+["2.5.1-2.6.3"]
+SpecialFunctions = ["0.8", "0.10"]
+
+["2.6-2.6.3"]
+NCDatasets = "0.10"
+
+["2.6.2-2"]
+DataStructures = "0.17-0.18"
+
+["2.6.4-2"]
+HTTP = "0.8-0.9"
+Interpolations = "0.12-0.13"
+NCDatasets = "0.10-0.11"
+SpecialFunctions = ["0.8", "0.10", "1"]

@@ -1,9 +1,0 @@
-["0.1"]
-BioSequences = "0.5-1.1"
-Distances = "0.1-0.8"
-Distributions = "0.1-0.17"
-Levenshtein = "0.0-0.2"
-MultivariateStats = "0.0-0.6"
-PyPlot = "1.0-2.8"
-StatsBase = "0.1-0.29"
-julia = "0.6"

@@ -1,16 +1,10 @@
-["0.0"]
-Unrolled = "0.0-0.1"
-julia = "0.6-0.7"
-
-["0.0-1.0"]
-ArgCheck = "0.1-1.0"
-AutoHashEquals = "0.0-0.2"
-Distributions = "0.1-0.17"
-DocStringExtensions = "0.1-0.7"
-Lazy = "0.1-0.13"
-MacroTools = "0.1-0.5"
-Parameters = "0.0-0.10"
-StatsFuns = "0.0-0.8"
-
-["1.0"]
-julia = "0.7-1.2"
+[1]
+ArgCheck = "0-1"
+AutoHashEquals = "0.0.0 - 0.2"
+Distributions = "0.0.0 - 0.23"
+DocStringExtensions = "0.0.0 - 0.8"
+Lazy = "0.0.0 - 0.15"
+MacroTools = "0.0.0 - 0.5"
+Parameters = "0.0.0 - 0.12"
+StatsFuns = "0.0.0 - 0.9"
+julia = ["0.7", "1"]

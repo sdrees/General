@@ -1,0 +1,18 @@
+[11]
+JLLWrappers = "1.2.0-1"
+julia = "1"
+
+["11.0.0"]
+libLLVM_jll = "11.0.0"
+
+["11.0.1-11"]
+libLLVM_jll = "11.0.1"
+
+[6]
+julia = "1.0-1.3"
+
+[8]
+julia = "1.4"
+
+[9]
+libLLVM_jll = "9.0.1"

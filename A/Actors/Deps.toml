@@ -1,5 +1,9 @@
-["0.0"]
-EasyPkg = "03a36d30-c4fd-5eb2-8349-29d148f4657d"
+["0.1.1-0"]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 
-["0.1"]
-Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+["0.1.8-0"]
+ActorInterfaces = "7e194583-e687-41a0-9133-1c22a29c80af"
+
+["0.2.3-0"]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Proquint = "710532b4-0dcf-4e85-9a00-0fba2d710edd"

@@ -1,18 +1,3 @@
-["0.1.0"]
-git-tree-sha1 = "5c798a0b4c1a056c22c1a201d16f1e10ae26d62b"
-
-["0.2.0"]
-git-tree-sha1 = "25a1595c22af1d65e1532b60c601146a1ee474cc"
-
-["0.3.0"]
-git-tree-sha1 = "a6a76ad6ba96fed47e30cae0ef36d3c0f26f20fa"
-
-["0.4.0"]
-git-tree-sha1 = "abe6d012f5ea23fa2e24fcacadd604ccba51ccd4"
-
-["0.4.1"]
-git-tree-sha1 = "8f3b3e5cb42811132a194c34324d6cb37bcd9836"
-
 ["0.5.0"]
 git-tree-sha1 = "da44ed3ad268cfa8dbc682e96e437b53d2ae84d7"
 
@@ -51,3 +36,66 @@ git-tree-sha1 = "ed9457bdd246a3302d791c5e8f0aad3c3de2e121"
 
 ["0.8.4"]
 git-tree-sha1 = "5d3de69c9220610d0336ab45d3eb8b6ac7a7c807"
+
+["0.9.0"]
+git-tree-sha1 = "2c964a0bbbdd09a270b21c3ed293061a38898eee"
+
+["0.9.1"]
+git-tree-sha1 = "5e6e36e2f01efbc62b3f8bf68c8cf82035e2c6a6"
+
+["0.9.2"]
+git-tree-sha1 = "2772d0090391b4bce23f4da0fa74143b6d0d5939"
+
+["0.9.3"]
+git-tree-sha1 = "2880e4eca97edb87ea53e986880de6bc2fbcefb1"
+
+["0.9.4"]
+git-tree-sha1 = "e94145d7746c13732a1ad1d1d334f8e9afab8e7c"
+
+["0.9.5"]
+git-tree-sha1 = "7088ff9a77e8ecd773cc788787ad027cfb627170"
+
+["0.9.6"]
+git-tree-sha1 = "0d0e9987440b0b5c03f8df9cd30694f1acec81bb"
+
+["0.9.7"]
+git-tree-sha1 = "78427dcc212e0c0ad9658049bc56a50303ad9737"
+
+["0.9.8"]
+git-tree-sha1 = "026c2e55361bc3fdc3287a563e27f32ec4853549"
+
+["0.9.9"]
+git-tree-sha1 = "d52d0671560f209b8a4604e7267d1f76ceae1f23"
+
+["0.9.10"]
+git-tree-sha1 = "793416d916e8fb1d16cdd016dabe8df87c636198"
+
+["0.9.11"]
+git-tree-sha1 = "b6ed13ad3e125a2a44c031136eee2e22abb534db"
+
+["0.9.12"]
+git-tree-sha1 = "f0d60e42d8b64dd1b511e2dc13e0b72ba1dfc9cf"
+
+["0.9.13"]
+git-tree-sha1 = "27f2ef85879b8f1d144266ab44f076ba0dfbd8a1"
+
+["0.9.14"]
+git-tree-sha1 = "cd2049c055c7d192a235670d50faa375361624ba"
+
+["0.9.15"]
+git-tree-sha1 = "a121678315668752aa5d26fef9ab564941c81e43"
+
+["0.9.16"]
+git-tree-sha1 = "cee244578983f9c9eb09278ef54981209b09d9cb"
+
+["0.9.17"]
+git-tree-sha1 = "5a1d631e0a9087d425e024d66b9c71e92e78fda8"
+
+["0.9.18"]
+git-tree-sha1 = "4fd15565d1811be771e87a877f1e691a005d2b90"
+
+["0.9.19"]
+git-tree-sha1 = "c4788b9cb29f8d1508e16419e66a7e617b46192d"
+
+["0.9.20"]
+git-tree-sha1 = "606efe4246da5407d7505265a1ead72467528996"

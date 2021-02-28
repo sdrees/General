@@ -1,2 +1,17 @@
 ["0.4.0"]
 git-tree-sha1 = "4023da628d5adee114e7c6531c4d5ce87a19a654"
+
+["0.5.0"]
+git-tree-sha1 = "c0ebe19ed72036d2495ab4061ebee7bca9f4479a"
+
+["0.5.1"]
+git-tree-sha1 = "ea2c7603a384af1d614c55bbbb305ce8b8cb4676"
+
+["0.5.2"]
+git-tree-sha1 = "99e1087dd223494a186707f8302a7a1455090a6f"
+
+["0.5.3"]
+git-tree-sha1 = "2b84bae7060cada5e2d92f5865ec96fcd0d6e096"
+
+["0.5.4"]
+git-tree-sha1 = "a8619f8715d92cfc9d56a549a0d459bb655ae113"

@@ -1,7 +1,23 @@
-["0.1"]
-Einsum = "0.0-0.4"
-FEMBase = "0.0-0.2"
-ForwardDiff = "0.0-0.10"
-NLsolve = "0.1-4.0"
-Tensors = "0.4-1.1"
-julia = "1.0-1.2"
+["0-0.1"]
+FEMBase = "0.0.0 - 0.3"
+NLsolve = "0-4"
+Tensors = "0-1"
+julia = "1"
+
+["0-0.2.0"]
+Einsum = "0.0.0 - 0.4"
+ForwardDiff = "0.0.0 - 0.10"
+
+["0.2.0"]
+NLsolve = "0.0.0 - 4"
+Parameters = "0.0.0 - 0.12"
+Tensors = "0.0.0 - 1"
+julia = "1.0.0-1"
+
+["0.2.1-0"]
+Einsum = "0.4.1-0.4"
+ForwardDiff = "0.10.3-0.10"
+NLsolve = "4.1.0-4"
+Parameters = "0.12"
+Tensors = "1.2.0-1"
+julia = "1"

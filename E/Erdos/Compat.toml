@@ -1,35 +1,9 @@
-["0.1-0.2"]
-BlossomV = "0.2-0.4"
-ParserCombinator = "1.7.11-2.0"
-
-["0.1-0.5"]
-julia = "0.5-0.7"
-
-["0.1-0.6.0"]
-DataStructures = "0.5-0.15"
-EzXML = "0.4-0.9"
-
-["0.1-0.7"]
-Clustering = "0.2-0.13"
-GZip = "0.2.20-0.5"
-StatsFuns = "0.0-0.8"
-
-["0.1.2-0.5"]
-Compat = "0.18-2.1"
-
-["0.3-0.5"]
-BlossomV = "0.3-0.4"
-
-["0.6"]
-julia = "0.6-0.7"
-
-["0.6.1-0.6.3"]
-DataStructures = "0.7-0.15"
-EzXML = "0.5-0.9"
-
-["0.7"]
-Arpack = "0.1-0.3"
-DataStructures = "0.9-0.15"
-EzXML = "0.6.5-0.9"
-IterTools = "0.1-1.1"
-julia = "0.7-1.2"
+[0]
+Arpack = "0.0.0 - 0.4"
+Clustering = "0.0.0 - 0.14"
+DataStructures = "0.9.0 - 0.18"
+EzXML = "0.6.5 - 0.9"
+GZip = "0.2.20 - 0.5"
+IterTools = "0-1"
+StatsFuns = "0.0.0 - 0.9"
+julia = ["0.7", "1"]

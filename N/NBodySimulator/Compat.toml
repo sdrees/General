@@ -1,10 +1,44 @@
-["0.0-0.1"]
-DiffEqBase = "3.0-5.5"
-DiffEqCallbacks = "0.0-2.5"
-FileIO = "0.0-1.0"
-OrdinaryDiffEq = "3.0-5.4"
-RecipesBase = "0.0-0.6"
-RecursiveArrayTools = "0.0-0.20"
-Reexport = "0.0-0.2"
-StaticArrays = "0.0-0.10"
-julia = "0.7-1.2"
+[0]
+DiffEqBase = "3-5"
+DiffEqCallbacks = "0-2"
+FileIO = "0-1"
+OrdinaryDiffEq = "3-5"
+RecipesBase = "0.0.0 - 0.7"
+RecursiveArrayTools = "0.0.0 - 0.20"
+Reexport = "0.0.0 - 0.2"
+StaticArrays = "0.0.0 - 0.12"
+julia = ["0.7", "1"]
+
+[1]
+DiffEqBase = "6"
+DiffEqCallbacks = "2.9.0-2"
+FileIO = "1"
+OrdinaryDiffEq = "5"
+julia = "1"
+
+["1-1.1"]
+RecipesBase = "0.7"
+
+["1-1.4"]
+Reexport = "0.2"
+
+["1-1.5"]
+StaticArrays = "0.10-0.12"
+
+["1.0"]
+RecursiveArrayTools = "1"
+
+["1.1-1"]
+RecursiveArrayTools = "2"
+
+["1.2"]
+RecipesBase = "0.7-0.8"
+
+["1.3-1"]
+RecipesBase = ["0.7-0.8", "1"]
+
+["1.5-1"]
+Reexport = ["0.2", "1"]
+
+["1.6-1"]
+StaticArrays = ["0.10-0.12", "1"]

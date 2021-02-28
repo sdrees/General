@@ -1,21 +1,18 @@
-["0.0"]
-julia = "0.5-0.7"
-
-["0.0-0.1"]
-Distributions = "0.11-0.17"
-StatsBase = "0.11-0.29"
-
-["0.1"]
-julia = "0.6-0.7"
+["1-1.1.1"]
+Distributions = "0.16.4 - 0.23"
+StatsBase = "0.25.0 - 0.33"
+julia = ["0.7", "1"]
 
 ["1.0"]
-Requires = "0.5.2"
+Requires = "0.5.2 - 0.5"
 
-["1.0-1.1"]
-Distributions = "0.16.4-0.17"
-StatsBase = "0.25-0.29"
-julia = "0.7-1.2"
+["1.1-1.1.1"]
+DataFrames = "0.15.0 - 0.21"
+TimeSeries = "0.14.0 - 0.19"
 
-["1.1"]
-DataFrames = "0.15-0.17"
-TimeSeries = "0.14"
+["1.1.2-1"]
+DataFrames = "0.0.0 - 0.21"
+Distributions = "0.0.0 - 0.23"
+StatsBase = "0.0.0 - 0.33"
+TimeSeries = "0.0.0 - 0.19"
+julia = "1"

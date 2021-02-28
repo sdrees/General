@@ -1,18 +1,28 @@
-["0.0-0.1"]
-DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
-ImmutableArrays = "ffda130c-d492-58df-9d61-3bed680bfbb1"
+[0]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
-["0.0.4"]
-Lint = "d4b2101a-7710-563d-8e49-77b01dd33fad"
+["0-0.1"]
+EarCut_jll = "5ae413db-bbd1-5e63-b57d-d24a61df00f5"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
 
-["0.1"]
-Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
-JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
-LightXML = "9c8b4983-aa76-5018-a973-4c85ecc9e179"
-ZipFile = "a5390f91-8eb1-5f08-bee0-b1d1ffed6cea"
+["0.3-0"]
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 
-["0.2"]
-FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
-GeometryTypes = "4d00f742-c7ba-57c2-abde-4428a4b178cb"
-MeshIO = "7269a6da-0436-5bbc-96c2-40638cbb6118"
-Meshing = "e6723b4c-ebff-59f1-b4b7-d97aa5274f73"
+["0.4-0"]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
+
+["0.6-0"]
+CircularArrays = "7a955b69-7140-5f4e-a0ed-f168c5e2e749"
+
+["0.8-0"]
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+NearestNeighbors = "b8a86587-4115-5ab1-83bc-aa920d37bbce"
+ReferenceFrameRotations = "74f56ac7-18b3-5285-802d-d4bd4f104033"
+Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
+
+["0.9-0"]
+SimpleTraits = "699a6c99-e7fa-54fc-8d76-47d257e15c1d"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"

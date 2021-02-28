@@ -1,8 +1,17 @@
-["0.1"]
-DataStructures = "0.2-0.15"
-Distributions = "0.1-0.17"
-FileIO = "0.0-1.0"
-Gadfly = "0.1-1.0"
-KernelDensity = "0.0-0.5"
-StatsBase = "0.1-0.29"
-julia = "0.7-1.2"
+["0-0.1"]
+DataStructures = "0.0.0 - 0.17"
+Distributions = "0.0.0 - 0.22"
+FileIO = "0-1"
+Gadfly = "0-1"
+KernelDensity = "0.0.0 - 0.5"
+StatsBase = "0.0.0 - 0.32"
+julia = ["0.7", "1"]
+
+["0.2-0"]
+DataStructures = "0.17"
+Distributions = "0.22"
+FileIO = "1"
+Gadfly = "1"
+KernelDensity = "0.5"
+StatsBase = "0.32"
+julia = "1"

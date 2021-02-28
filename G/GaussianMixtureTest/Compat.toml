@@ -1,13 +1,6 @@
-["0.0"]
-julia = "0.4-0.7"
-
-["0.0-0.1"]
-Distributions = "0.1-0.17"
-StatsBase = "0.1-0.29"
-StatsFuns = "0.0-0.8"
-
-["0.0.2-0.1"]
-Yeppp = "0.0-0.4"
-
-["0.1"]
-julia = "0.7-1.2"
+[0]
+Distributions = "0.0.0 - 0.23"
+StatsBase = "0.0.0 - 0.33"
+StatsFuns = "0.0.0 - 0.9"
+Yeppp = "0.0.0 - 0.4"
+julia = ["0.7", "1"]

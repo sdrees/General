@@ -1,69 +1,3 @@
-["0.1.0"]
-git-tree-sha1 = "d4922800e3b3f31635c86104de578f7eb79ee04b"
-
-["0.2.0"]
-git-tree-sha1 = "6b20d0e2506219198854386be7f617eadc08ceb5"
-
-["0.2.1"]
-git-tree-sha1 = "71cf6fa23439b0bdd4aa0af0d40869ca1e22b8b5"
-
-["0.3.0"]
-git-tree-sha1 = "d94947354f7edee5df23f3e4e7c13681660c7e53"
-
-["0.4.0"]
-git-tree-sha1 = "d099978ab2404c1994931dd327fcc2645f12a137"
-
-["0.4.1"]
-git-tree-sha1 = "d1089179e3923c0dd314b2bb64a324669101e0c2"
-
-["0.4.2"]
-git-tree-sha1 = "90ecf99386958d6946474a61c36d6e5d232af2b5"
-
-["0.4.3"]
-git-tree-sha1 = "b1476f6ec02e5035117602cc5cec2db34e50f4bf"
-
-["0.5.0"]
-git-tree-sha1 = "1a573e6b3961cc9658cbb883ae7a7d981ebc0ff9"
-
-["0.6.0"]
-git-tree-sha1 = "97691da40c27f75f8b42ed7e5094bc42ca5ea8c5"
-
-["0.6.1"]
-git-tree-sha1 = "ca94b0dca512aaf29c24294cde5ba804d47480b9"
-
-["0.7.0"]
-git-tree-sha1 = "13719a707f176b0e68f4bdc42d7956a9244814fb"
-
-["0.8.0"]
-git-tree-sha1 = "91a0551bf02eb39c19052fdd7c8117ddcd3d9623"
-
-["0.8.1"]
-git-tree-sha1 = "8995b2d735c08d34d82da60cf76ed5b3b4d2de63"
-
-["0.8.2"]
-git-tree-sha1 = "89755634c374a9f8a2f14f5df26dc50648056e7d"
-
-["0.9.0"]
-git-tree-sha1 = "35c3b57a1c5e66fc056ab5d6d8cf2326a07fca19"
-
-["0.9.1"]
-git-tree-sha1 = "49206b444e08de6fd319910efde14a0315414c5b"
-
-["0.9.2"]
-git-tree-sha1 = "b6f31502ee471fb3e90cbaba2a57778ee535235a"
-
-["0.9.3"]
-git-tree-sha1 = "4599c8cdc5019b293f2bb8976323c14a2fdee289"
-
-["0.10.0"]
-git-tree-sha1 = "330f7865be19dc3592015cb0f1f5b66244d16cd3"
-
-["0.11.0"]
-git-tree-sha1 = "a285b1bfac52cfc6ebd53da95a7b4d81bb07e0c2"
-
-["0.11.1"]
-git-tree-sha1 = "654b4fd55982613465cd022fdf851b59d0cd6eb8"
-
 ["0.12.0"]
 git-tree-sha1 = "0f11a3fe787963762f0c973e29a4716ca291fdca"
 
@@ -111,3 +45,96 @@ git-tree-sha1 = "646520c52f4831303cac058d933b8bc5b163b32d"
 
 ["1.5.0"]
 git-tree-sha1 = "df13c89cd7db75f9353525f46f94cb7a1015df7d"
+
+["1.6.0"]
+git-tree-sha1 = "89dd8066167b96954ce1f569cb1730e1d8e452ae"
+
+["1.6.1"]
+git-tree-sha1 = "0f8ae7b3b8af8587ced220806a07d6b945c726ab"
+
+["1.7.0"]
+git-tree-sha1 = "a76653daa84ba7153a4498d614e4eef9526e5334"
+
+["1.8.0"]
+git-tree-sha1 = "1240ef69bc36ccbf45c4fb67cc67a2c264570813"
+
+["1.8.1"]
+git-tree-sha1 = "c15ec692693337b7ba8dc59d04601252a969b35c"
+
+["1.8.2"]
+git-tree-sha1 = "2c22b27ba7da154206e8041005e96d859d945343"
+
+["1.8.3"]
+git-tree-sha1 = "f05352ca7f38ed96ff2114250fe7c777a963b2e0"
+
+["1.9.0"]
+git-tree-sha1 = "2fea43f69572178640ba19e60f7f8f6a8e833872"
+
+["1.9.1"]
+git-tree-sha1 = "970f58ab667f68d08831a0101b23055122b1cbf5"
+
+["1.9.2"]
+git-tree-sha1 = "0abc04d58dd59e67c594caa025318ebd519d76f5"
+
+["1.10.0"]
+git-tree-sha1 = "339cbf890f7ff7f4db0e652b7af0f0c4ef4a8884"
+
+["1.10.1"]
+git-tree-sha1 = "95f6dda9f82ec54b4eb5b23b788a715cb06d805c"
+
+["1.11.0"]
+git-tree-sha1 = "92bb4f464fbe415412dd89034981e06f8fb569ea"
+
+["1.12.0"]
+git-tree-sha1 = "0544c0bec4a1268e22d5e71852da84bc80a76493"
+
+["1.12.1"]
+git-tree-sha1 = "20e825b4e4cddeb7bc8bbc44d5ed0321864b347e"
+
+["1.13.0"]
+git-tree-sha1 = "d2f989d04f0f23988760b3ca8acb1d8f3a714a06"
+
+["1.14.0"]
+git-tree-sha1 = "a432f33c82db36c6bad90bf226fa9e6771d7074d"
+
+["1.15.0"]
+git-tree-sha1 = "e9da47b43646d262c5cde381aaaaec11e1f0e2d0"
+
+["1.15.1"]
+git-tree-sha1 = "43c89eba0c8b40034b1539a63b7b65899afb0129"
+
+["1.16.0"]
+git-tree-sha1 = "201e2ab6c71d02cad5edd887076ae2787c4af210"
+
+["1.17.0"]
+git-tree-sha1 = "a36fea09aa98befc70d6f00a2d3f115dc619d301"
+
+["1.18.0"]
+git-tree-sha1 = "e248f8dac95d36d50b7c10f9a489be734a1f5110"
+
+["1.19.0"]
+git-tree-sha1 = "ee973be6ef7f39c212a85fa12d22cb3656d2dfa2"
+
+["1.19.1"]
+git-tree-sha1 = "abf1afa3b71584516c0c64f67de0786a2d2dfebd"
+
+["1.20.0"]
+git-tree-sha1 = "0d30a1c45d23fb3493b3b3ffaea1d91fa6d6026a"
+
+["1.21.0"]
+git-tree-sha1 = "39528fbc1e62b5f56d28dea1cd6e41f83c938032"
+
+["1.21.1"]
+git-tree-sha1 = "b41fd8ca751d92a2dbe0bcf1ac6d7c45d61c4b3c"
+
+["1.22.0"]
+git-tree-sha1 = "cda5cda05595e0b4be97e9ea93c75e0032e41978"
+
+["1.23.0"]
+git-tree-sha1 = "ab339b3a6ee2444ce131281b657c6b10c70e6e2c"
+
+["1.23.1"]
+git-tree-sha1 = "21b4730b7f9defde23e3882d07f4f46ff146edc1"
+
+["1.24.0"]
+git-tree-sha1 = "f3ca364c2d3d02ef309a2614e87155365c27bef4"

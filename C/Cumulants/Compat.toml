@@ -1,37 +1,19 @@
-["0.2"]
-ArgParse = "0.2-0.6"
-FactCheck = "0.0-0.4"
-Iterators = "0.1-0.3"
-NPZ = "0.0-0.3"
-PyCall = "0.0-1.91"
-PyPlot = "1.0-2.8"
-julia = "0.5-0.7"
+["1-1.0.2"]
+Combinatorics = "0.0.0 - 0.7"
+SymmetricTensors = "0-1"
+julia = ["0.7", "1"]
 
-["0.2-0.3"]
-NullableArrays = "0.0-0.1"
-SymmetricTensors = "0.1-1.0"
+["1-1.0.3"]
+Distributions = "0.0.0 - 0.23"
 
-["0.2-1.0"]
-Combinatorics = "0.0-0.7"
-Distributions = "0.1-0.17"
+["1.0.3"]
+Combinatorics = "0.0.0 - 1"
+SymmetricTensors = "0.0.0 - 1"
 
-["0.3-0.4.1"]
-julia = "0.6-0.7"
+["1.0.3-1"]
+julia = "1"
 
-["0.4.0"]
-SymmetricTensors = "0.3-1.0"
-
-["0.4.1"]
-SymmetricTensors = "0.3.2-1.0"
-
-["0.4.2"]
-SymmetricTensors = "0.3.3"
-julia = "0.6"
-
-["1.0.0"]
-SymmetricTensors = "1.0"
-julia = "0.7"
-
-["1.0.1-1.0.2"]
-SymmetricTensors = "0.1-1.0"
-julia = "0.7-1.2"
+["1.0.4-1"]
+Combinatorics = ["0.7", "1"]
+Distributions = "0.24"
+SymmetricTensors = "1"

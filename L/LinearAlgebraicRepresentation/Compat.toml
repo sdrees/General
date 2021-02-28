@@ -1,7 +1,6 @@
-["0.1"]
-DataStructures = "0.2-0.15"
-IntervalTrees = "0.0-1.0"
-IterTools = "0.1-1.1"
-NearestNeighbors = "0.0-0.4"
-Triangle = "0.1-0.2"
-julia = "0.6-0.7"
+[1]
+DataStructures = "0.15"
+IntervalTrees = "1"
+NearestNeighbors = "0.4.3-0.4"
+Triangle = "0.3"
+julia = "1"

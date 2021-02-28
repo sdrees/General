@@ -1,83 +1,155 @@
-["0.0-0.1"]
-julia = "0.5-0.7"
+["0-0.12"]
+PyCall = "1.18.5-1"
 
-["0.0-0.8"]
-NetCDF = "0.4.1-0.7"
+["0-0.13"]
+ArgCheck = "1"
+AxisArrays = "0.3.0 - 0.4"
+Interpolations = "0.8.0 - 0.12"
+IterTools = "1.1-1"
+NetCDF = "0.7.1 - 0.8"
+Polynomials = "0.5.1 - 0.6"
+ProgressMeter = "0.6.0 - 0.9"
+PyPlot = "2.6.3-2"
+Reexport = "0.2.0 - 0.2"
+Shapefile = "0.4.0 - 0.6"
+julia = ["0.7", "1"]
 
-["0.0.2-0.0.3"]
-PyCall = "1.7.2-1.91"
-PyPlot = "2.2.4-2.8"
-
-["0.0.4-0.1"]
-Shapefile = "0.0.3-0.5"
-
-["0.0.5-0.1"]
-AxisArrays = "0.0.6-0.3"
-PyCall = "1.10-1.91"
-
-["0.0.5-0.2"]
-PyPlot = "2.3.1-2.8"
-
-["0.0.5-0.8"]
-ArgCheck = "0.1-1.0"
-
-["0.1"]
-Lint = "0.3-0.5"
+["0-0.9"]
+NCDatasets = "0.3.2 - 0.9"
 
 ["0.10-0.11"]
-NCDatasets = "0.4-0.8"
+NCDatasets = "0.4.0 - 0.9"
 
 ["0.10-0.13"]
-BinDeps = "0.4-0.8"
-CondaBinDeps = "0.1"
+BinDeps = "0.4.0 - 0.8"
+
+["0.10-0.14"]
+CondaBinDeps = "0.0.0 - 0.1"
 
 ["0.10.1-0.13"]
-NaNMath = "0.3.2"
+NaNMath = "0.3.2 - 0.3"
 
 ["0.11"]
-Unitful = "0.12-0.15"
+Unitful = "0.12.0 - 0.18"
 
 ["0.12"]
-Unitful = "0.15"
+Unitful = "0.15.0 - 0.18"
 
 ["0.12-0.13"]
-NCDatasets = "0.8"
+NCDatasets = "0.8.0 - 0.9"
 
 ["0.13"]
-PyCall = "1.90-1.91"
+PyCall = "1.90-1"
 
-["0.2-0.8"]
-AxisArrays = "0.1.3-0.3"
-PyCall = "1.11.1-1.91"
-Shapefile = "0.2-0.5"
-julia = "0.6-0.7"
+["0.14"]
+Conda = "0.0.0 - 1"
 
-["0.3-0.8"]
-Interpolations = "0.7-0.11"
-PyPlot = "2.3.2-2.8"
+["0.14.0"]
+ArgCheck = "0.0.0 - 1"
+AxisArrays = "0.0.0 - 0.4"
+BinDeps = "0.0.0 - 0.8"
+Images = "0.0.0 - 0.20"
+Interpolations = "0.0.0 - 0.12"
+IterTools = "0.0.0 - 1"
+NCDatasets = "0.0.0 - 0.9"
+NaNMath = "0.0.0 - 0.3"
+NetCDF = "0.0.0 - 0.8"
+Polynomials = "0.0.0 - 0.6"
+ProgressMeter = "0.0.0 - 1"
+PyCall = "0.0.0 - 1"
+PyPlot = "0.0.0 - 2"
+Reexport = "0.0.0 - 0.2"
+Shapefile = "0.0.0 - 0.6"
+julia = "1"
 
-["0.5-0.8"]
-NCDatasets = "0.0.9-0.8"
-ProgressMeter = "0.5.5-0.9"
+["0.14.1-0.14"]
+ArgCheck = "1.0.0 - 1"
+AxisArrays = "0.3.0 - 0.4"
+BinDeps = "0.4.0 - 0.8"
+Images = "0.17.3 - 0.20"
+IterTools = "1.1.0 - 1"
+NCDatasets = "0.9.2 - 0.9"
+NaNMath = "0.3.2 - 0.3"
+NetCDF = "0.7.1 - 0.8"
+Polynomials = "0.5.1 - 0.6"
+ProgressMeter = "0.6.0 - 1"
+PyCall = "1.90.0 - 1"
+PyPlot = "2.6.3 - 2"
+Reexport = "0.2.0 - 0.2"
+Shapefile = "0.4.0 - 0.6"
+julia = ["0.7.0", "1"]
 
-["0.8"]
-Polynomials = "0.3-0.5"
+["0.14.1-0.14.2"]
+Interpolations = "0.8.0 - 0.12"
 
-["0.9"]
-NCDatasets = "0.3.2-0.8"
+["0.14.3-0.14"]
+GeoStats = "0.0.0 - 0.10"
+Interpolations = "0.12.1 - 0.12"
+InverseDistanceWeighting = "0.0.0 - 0.3"
 
-["0.9-0.12"]
-PyCall = "1.18.5-1.91"
+["0.15"]
+BinDeps = "0.4-0.8"
+Conda = "1"
+CondaBinDeps = "0.1"
+Images = "0.18-0.20"
+PyCall = "1.90.0-1"
+PyPlot = "2.6.0-2"
 
-["0.9-0.13"]
-ArgCheck = "1.0"
-AxisArrays = "0.3"
-Interpolations = "0.8-0.11"
-IterTools = "1.1"
-NetCDF = "0.7.1-0.7.3"
-Polynomials = "0.5.1-0.5.2"
-ProgressMeter = "0.6-0.9"
-PyPlot = "2.6.3-2.8"
+["0.15-0"]
+AxisArrays = "0.3-0.4"
+Interpolations = "0.12"
+IterTools = "1.1.0-1"
+NaNMath = "0.3"
+ProgressMeter = "1"
 Reexport = "0.2"
-Shapefile = "0.4-0.5"
-julia = "0.7-1.2"
+Shapefile = "0.4-0.6"
+julia = "1.2.0-1"
+
+["0.15-0.18.1"]
+ArgCheck = "1"
+NCDatasets = "0.9"
+NetCDF = "0.7-0.8"
+
+["0.15-0.19"]
+GeoStats = "0.8-0.10"
+
+["0.15-0.20"]
+Extremes = "0.1.1-0.1"
+InverseDistanceWeighting = "0.2-0.3"
+Polynomials = "0.5-0.6"
+
+["0.15-0.21.0"]
+DataFrames = "0.19-0.20"
+Distances = "0.7-0.8"
+
+["0.16-0.17"]
+ClimateBase = "0.1"
+
+["0.18"]
+ClimateBase = "0.2"
+
+["0.18.2-0"]
+ArgCheck = "1-2"
+NCDatasets = "0.9-0.10"
+
+["0.18.2-0.20"]
+NetCDF = "0.7-0.9"
+
+["0.19"]
+ClimateBase = "0.3"
+
+["0.20-0"]
+ClimateBase = "0.6"
+GeoStats = "0.11"
+
+["0.21-0"]
+Extremes = "0.1"
+InverseDistanceWeighting = "0.3"
+NetCDF = "0.7-0.10"
+Polynomials = ["0.5-0.8", "1"]
+PyCall = "1.91.0-1"
+
+["0.21.1-0"]
+DataFrames = "0.19-0.21"
+Distances = "0.7-0.9"
+RollingFunctions = "0.6"

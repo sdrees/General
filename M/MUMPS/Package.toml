@@ -1,3 +1,3 @@
 name = "MUMPS"
-uuid = "bf6389e2-cca1-5e17-ac22-36425c4ccbb4"
-repo = "https://github.com/JuliaSparse/MUMPS.jl.git"
+uuid = "55d2b088-9f4e-11e9-26c0-150b02ea6a46"
+repo = "https://github.com/JuliaSmoothOptimizers/MUMPS.jl.git"

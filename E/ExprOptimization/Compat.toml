@@ -1,19 +1,11 @@
-["0.1"]
-julia = "0.6-0.7"
+[0]
+AbstractTrees = "0.0.0 - 0.3"
+ExprRules = "0.0.0 - 0.3"
+Reexport = "0.0.0 - 0.2"
+StatsBase = "0.0.0 - 0.33"
+julia = ["0.7", "1"]
 
-["0.1-0.2"]
-ExprRules = "0.1-0.3"
-Reexport = "0.0-0.2"
-
-["0.1.1"]
-Discretizers = "0.0-3.0"
-
-["0.2"]
-AbstractTrees = "0.0-0.2"
-StatsBase = "0.1-0.29"
-julia = "0.7-1.2"
-
-["0.2.1"]
-CPUTime = "0.0-0.1"
-CSV = "0.0-0.4"
-DataFrames = "0.1-0.17"
+["0.2.1-0"]
+CPUTime = "0.0.0 - 0.1"
+CSV = "0.0.0 - 0.7"
+DataFrames = "0.0.0 - 0.21"

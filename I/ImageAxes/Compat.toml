@@ -1,30 +1,41 @@
-["0.0-0.1"]
-ImageCore = "0.0-0.7"
-
-["0.0-0.3"]
-julia = "0.5-0.7"
-
-["0.0-0.4"]
-AxisArrays = "0.0-0.3"
-
-["0.0-0.5"]
-Colors = "0.4-0.9"
-Reexport = "0.0-0.2"
-SimpleTraits = "0.1-0.8"
-
-["0.1-0.5"]
+["0-0.5"]
 FixedPointNumbers = "0.3-0.5"
-
-["0.2-0.5"]
 ImageCore = "0.2-0.7"
-MappedArrays = "0.0-0.2"
+julia = ["0.7", "1"]
 
-["0.3-0.4"]
-Compat = "0.17-2.1"
+["0-0.6.1"]
+AxisArrays = "0.3.0 - 0.3"
+Colors = "0.0.0 - 0.11"
+MappedArrays = "0.0.0 - 0.2"
+Reexport = "0.0.0 - 0.2"
+SimpleTraits = "0.0.0 - 0.9"
 
-["0.4"]
-julia = "0.6-0.7"
+["0.6-0.6.1"]
+FixedPointNumbers = "0.3.0 - 0.7"
+ImageCore = "0.2.0 - 0.8"
 
-["0.5"]
+["0.6.0"]
+julia = "1"
+
+["0.6.1"]
+julia = "1.0.0-1"
+
+["0.6.2"]
 AxisArrays = "0.3"
-julia = "0.7-1.2"
+
+["0.6.2-0"]
+ImageCore = "0.8.1-0.8"
+SimpleTraits = "0.8-0.9"
+julia = "1"
+
+["0.6.2-0.6.6"]
+MappedArrays = "0.2"
+
+["0.6.2-0.6.7"]
+Reexport = "0.2"
+
+["0.6.3-0"]
+AxisArrays = "0.3-0.4"
+
+["0.6.8-0"]
+Reexport = ["0.2", "1"]

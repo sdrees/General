@@ -1,109 +1,218 @@
-["0.0-0.1.1"]
-RecursiveArrayTools = "0.0-0.3"
+["3-3.13.2"]
+IteratorInterfaceExtensions = "0.1-1"
+TableTraits = "0.3-1"
+julia = ["0.7", "1"]
 
-["0.0-1.9"]
-julia = "0.5-0.7"
+["3-4.6"]
+FunctionWrappers = "0-1"
 
-["0.0-5.5"]
-RecipesBase = "0.1-0.6"
+["3-5.6"]
+Compat = "0.19-2"
 
-["0.0.2-1.9"]
-Ranges = "0.0"
+["3-5.7"]
+RecursiveArrayTools = "0.12.3 - 0.20"
 
-["0.1.0-0.1.1"]
-Parameters = "0.0-0.10"
+["3-6.4"]
+RecipesBase = "0.1.0 - 0.7"
+Requires = "0.0.0 - 0.5"
 
-["0.1.2-0.7"]
-RecursiveArrayTools = "0.0.2-0.3"
-
-["0.1.2-1.8"]
-Parameters = "0.5-0.10"
-
-["0.12-5.5"]
-Compat = "0.19-2.1"
-
-["0.3-3.13.1"]
-SimpleTraits = "0.1.1-0.8"
-
-["0.8-0.15"]
-RecursiveArrayTools = "0.2-0.3"
-
-["1.0-1.7"]
-RecursiveArrayTools = "0.4-0.20"
-
-["1.1-1.7"]
-Iterators = "0.1-0.3"
-
-["1.10-1.23.0"]
-RecursiveArrayTools = "0.9-0.20"
-
-["1.10-3.13.1"]
-julia = "0.6-0.7"
-
-["1.11-3.13.1"]
-LinearMaps = "0.0-2.3"
-
-["1.2-2.6"]
-Juno = "0.1-0.7"
-
-["1.23.1-5.5"]
-RecursiveArrayTools = "0.12.3-0.20"
-
-["1.7-1.9"]
-StaticArrays = "0.0-0.10"
-
-["1.8-1.9"]
-RecursiveArrayTools = "0.8-0.20"
-
-["2.0-4.6"]
-FunctionWrappers = "0.0-1.0"
-
-["2.7-5.5"]
-Requires = "0.1-0.5"
-
-["3.13.2"]
-IteratorInterfaceExtensions = "0.1"
-TableTraits = "0.3-0.4"
-julia = "0.7-1.2"
-
-["3.13.3"]
-LinearMaps = "0.0-2.3"
-julia = "0.6-1.2"
-
-["3.13.3-4.0"]
-SimpleTraits = "0.1.1-0.8"
+["3.13.3-3"]
+LinearMaps = "0-2"
+SimpleTraits = "0.1.1 - 0.9"
+julia = "0.6-1"
 
 ["3.13.3-4.4"]
-IteratorInterfaceExtensions = "0.0.2-0.1"
-NamedTuples = "4.0-5.0"
-TableTraits = "0.0.3-0.4"
+IteratorInterfaceExtensions = "0.0.2-1"
+NamedTuples = "4-5"
+TableTraits = "0.0.3-1"
 
-["3.2-3.13.1"]
-IteratorInterfaceExtensions = "0.0.2-0.1"
-NamedTuples = "4.0-5.0"
-TableTraits = "0.0.3-0.4"
+["4-4.20.1"]
+julia = ["0.7", "1"]
 
-["4.0-4.20.1"]
-julia = "0.7-1.2"
+["4.0"]
+SimpleTraits = "0.1.1 - 0.9"
 
-["4.14-5.5"]
-TreeViews = "0.1-0.3"
+["4.14-6.4"]
+TreeViews = "0.0.0 - 0.3"
 
 ["4.20.2"]
-julia = "1.0-1.2"
+julia = "1"
 
 ["4.20.3-4.21"]
-julia = "0.7-1.2"
+julia = ["0.7", "1"]
 
-["4.22-5.5"]
-julia = "1.0-1.2"
+["4.22-6.20"]
+julia = "1"
 
-["4.24-5.5"]
-StaticArrays = "0.8.3-0.10"
+["4.24-6.4"]
+StaticArrays = "0.8.3 - 0.12"
 
-["4.28-5.5"]
-Roots = "0.1-0.8"
+["4.28-6.4"]
+Roots = "0.0.0 - 0.8"
 
-["4.5-5.5"]
-IteratorInterfaceExtensions = "0.1"
-TableTraits = "0.3-0.4"
+["4.5-5.7"]
+IteratorInterfaceExtensions = "0.1-1"
+TableTraits = "0.3-1"
+
+["5.17-6.6"]
+ArrayInterface = "1.1.0-1"
+
+["5.5.2-6.4"]
+DocStringExtensions = "0.0.0 - 0.8"
+
+["5.7-6.4"]
+Compat = "0.0.0 - 3"
+IterativeSolvers = "0.0.0 - 0.8"
+RecursiveFactorization = "0.0.0 - 0.1"
+
+["5.8-6.4"]
+MuladdMacro = "0.2.1 - 0.2"
+Parameters = "0.10.0 - 0.12"
+RecursiveArrayTools = "0.12.3 - 1"
+
+["5.8.0"]
+IteratorInterfaceExtensions = "0.1.0-1"
+TableTraits = "0.3.0-1"
+
+["5.8.1-6.53"]
+IteratorInterfaceExtensions = ["0.1", "1"]
+TableTraits = ["0.3-0.4", "1"]
+
+["5.9-6.4"]
+FunctionWrappers = "0.0.0 - 1"
+
+["6-6.4"]
+DataStructures = "0.0.0 - 0.17"
+
+["6.10.1-6.12.2"]
+ChainRulesCore = "0.4"
+
+["6.11-6"]
+RecursiveArrayTools = "2"
+
+["6.12.3-6.13.0"]
+ChainRulesCore = "0.4-0.5"
+
+["6.13.1-6.17"]
+ChainRulesCore = "0.4-0.6"
+
+["6.14-6.25"]
+RecipesBase = "0.7-0.8"
+
+["6.18-6.34"]
+ChainRulesCore = "0.4-0.7"
+
+["6.19-6.51"]
+Roots = ["0.8", "1"]
+
+["6.2.4-6.12"]
+DiffEqDiffTools = "1"
+
+["6.20-6.44"]
+ConsoleProgressMonitor = "0.1"
+LoggingExtras = "0.4"
+ProgressLogging = "0.1"
+TerminalLoggers = "0.1"
+
+["6.21-6"]
+julia = "1.3.0-1"
+
+["6.23"]
+Compat = "3"
+
+["6.25-6.54"]
+ArrayInterface = "2.6.0-2"
+
+["6.26-6.53"]
+RecipesBase = ["0.7-0.8", "1"]
+
+["6.27-6"]
+LabelledArrays = "1.1.0-1"
+
+["6.35-6.39"]
+ChainRulesCore = "0.4-0.8"
+
+["6.40-6"]
+ChainRulesCore = "0.4-0.9"
+
+["6.44"]
+DataStructures = "0.17-0.18"
+
+["6.45-6"]
+DataStructures = "0.18"
+
+["6.47-6.53"]
+Tables = "1"
+
+["6.49-6.50"]
+NonlinearSolve = "0.1"
+
+["6.5-6"]
+DocStringExtensions = "0.8"
+FunctionWrappers = "1"
+MuladdMacro = "0.2.1-0.2"
+Parameters = "0.12"
+RecursiveFactorization = "0.1"
+
+["6.5-6.10"]
+RecursiveArrayTools = "1"
+
+["6.5-6.13"]
+RecipesBase = "0.7"
+
+["6.5-6.17"]
+Compat = "2.2.0-3"
+
+["6.5-6.18"]
+Roots = "0.8"
+
+["6.5-6.43"]
+DataStructures = "0.17"
+
+["6.5-6.49"]
+StaticArrays = "0.11-0.12"
+
+["6.5-6.52"]
+IterativeSolvers = "0.8"
+
+["6.5-6.53"]
+TreeViews = "0.3"
+
+["6.5-6.7"]
+Requires = "0.5"
+
+["6.50-6"]
+StaticArrays = ["0.11-0.12", "1"]
+
+["6.51"]
+NonlinearSolve = "0.1-0.2"
+
+["6.52-6"]
+NonlinearSolve = "0.3"
+
+["6.53-6.53.3"]
+IterativeSolvers = "0.8-0.9"
+
+["6.53.4-6"]
+IterativeSolvers = "0.9"
+
+["6.54-6"]
+SciMLBase = "1.1.0-1"
+
+["6.54-6.56"]
+Reexport = "1"
+
+["6.55-6"]
+ArrayInterface = "2.6.0-3"
+
+["6.57-6"]
+Reexport = ["0.2", "1"]
+
+["6.7-6.24"]
+ArrayInterface = "1.1.0-2"
+
+["6.8-6"]
+Requires = ["0.5", "1"]
+
+["6.9-6"]
+ZygoteRules = "0.2"

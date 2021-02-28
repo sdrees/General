@@ -1,18 +1,19 @@
-["0.0-0.3"]
-BinDeps = "9e28174c-4ba2-5203-b857-d8d62c4213ee"
-Homebrew = "d9be37ee-ecc9-5288-90f1-b9ca67657a75"
-
-["0.0-0.5"]
+[0]
+BinaryProvider = "b99e7846-7c00-51b0-8f62-c81ae34c0232"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
 MathProgBase = "fdba3010-5040-5b88-9595-932c9decdf73"
 
-["0.0.2-0.1.1"]
+["0-0.5"]
 Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 
-["0.2.5-0.2.8"]
-Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+["0.6-0"]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 
-["0.4-0.5"]
-BinaryProvider = "b99e7846-7c00-51b0-8f62-c81ae34c0232"
-Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
-MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
+["0.7-0"]
+SCS_jll = "f4f2fc5b-1d94-523c-97ea-2ab488bedf4b"
+
+["0.7.1-0"]
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+SCS_GPU_jll = "af6e375f-46ec-5fa0-b791-491b0dfa44a4"

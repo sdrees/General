@@ -51,3 +51,81 @@ git-tree-sha1 = "5aa45584645393c1717e0cc1f0362c2ea81470a9"
 
 ["0.1.18"]
 git-tree-sha1 = "719d5be11e89ae29d79b469c4238b63b53544d38"
+
+["0.1.19"]
+git-tree-sha1 = "4129c340d3960a49c0c5dbe71df2b3784bdc11c0"
+
+["0.2.0"]
+git-tree-sha1 = "e2abd466ca2f00a1bb8cb80024d59745cc8f91a6"
+
+["0.2.1"]
+git-tree-sha1 = "9e748316f5aa7b7753c90de612ef98fe8b0ea297"
+
+["0.2.2"]
+git-tree-sha1 = "5ab16d650736b21449731fa712bbdae60b3a7ab1"
+
+["0.2.3"]
+git-tree-sha1 = "83b4a0261e5d01274f12b35d4c2212386fb15569"
+
+["0.2.4"]
+git-tree-sha1 = "c5d784c61e9d243a5a6a8458d19f535b70bdedeb"
+
+["0.2.5"]
+git-tree-sha1 = "351a4b894122e1553c6ed05fda54086ab036adef"
+
+["0.2.6"]
+git-tree-sha1 = "c328ce4519e2c1ec7368e6ce98a5f916ecf230a8"
+
+["0.2.7"]
+git-tree-sha1 = "c93aafd5c45f850c653ec1c45857ba2151835f95"
+
+["0.2.8"]
+git-tree-sha1 = "b983930602b75a14007c9c72e945b4a7c878c538"
+
+["0.2.9"]
+git-tree-sha1 = "2e5d1a0d9b574ee2ed0c1a2fe32807de022376dd"
+
+["0.2.10"]
+git-tree-sha1 = "951b5be359e92703f886881b175ecfe924d8bd91"
+
+["0.2.11"]
+git-tree-sha1 = "aaed7b3b00248ff6a794375ad6adf30f30ca5591"
+
+["1.0.0"]
+git-tree-sha1 = "f2a8dae52736dd30921b2aea384551a2f982bce2"
+
+["1.0.1"]
+git-tree-sha1 = "22eea0f6619df63954b9404c8d47cd42c5d529f9"
+
+["1.0.2"]
+git-tree-sha1 = "a54b8ce702aa863eced47bade03123d4dca0db84"
+
+["1.0.3"]
+git-tree-sha1 = "242b7fde70b8bc6a30d6476adf17ca3cf1ced6ee"
+
+["1.0.4"]
+git-tree-sha1 = "c45dcc27331febabc20d86cb3974ef095257dcf3"
+
+["1.0.5"]
+git-tree-sha1 = "b7f762e9820b7fab47544c36f26f54ac59cf8abf"
+
+["1.1.0"]
+git-tree-sha1 = "24a584cf65e2cfabdadc21694fb69d2e74c82b44"
+
+["1.2.0"]
+git-tree-sha1 = "b50d1d75888975bdd79f2bf91ad3a7ea4a9de83f"
+
+["1.2.1"]
+git-tree-sha1 = "5131a624173d532299d1c7eb05341c18112b21b8"
+
+["1.2.2"]
+git-tree-sha1 = "240d19b8762006ff04b967bdd833269ad642d550"
+
+["1.3.0"]
+git-tree-sha1 = "97385160861239fc4e906cefdafb7c2e56fa7570"
+
+["1.3.1"]
+git-tree-sha1 = "8dc2bb7d3548e315d890706547b24502ed79504f"
+
+["1.3.2"]
+git-tree-sha1 = "a716dde43d57fa537a19058d044b495301ba6565"

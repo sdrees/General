@@ -1,265 +1,268 @@
-["0.0"]
-Sundials = "0.3-3.3"
+["4-4.1"]
+DiffEqOperators = "0-3"
 
-["0.0-0.1.0"]
-DiffEqBase = "0.0-0.6"
-RecursiveArrayTools = "0.0-0.12"
+["4-4.11.0"]
+Parameters = "0.5.0 - 0.12"
 
-["0.0-0.6"]
-NLsolve = "0.7.3-0.13"
-Ranges = "0.0"
-RecipesBase = "0.1-0.6"
+["4-4.13"]
+DiffEqBase = "3.8-5"
+julia = ["0.7", "1"]
 
-["0.0-1.4"]
-Compat = "0.8.8-2.1"
+["4-4.18"]
+DataStructures = "0.4.6 - 0.17"
 
-["0.0-2.3.1"]
-InplaceOps = "0.0.5-0.3"
+["4-4.2"]
+Compat = "0.18-2"
+Juno = "0.2.5 - 0.7"
 
-["0.0-2.4"]
-DiffEqDiffTools = "0.0"
-ForwardDiff = "0.2.4-0.4"
-julia = "0.5-0.7"
+["4-4.21.0"]
+RecursiveArrayTools = "0.13.0 - 0.20"
 
-["0.0-4.11.0"]
-Parameters = "0.5-0.10"
+["4-4.5"]
+MuladdMacro = "0.0.2 - 0.2"
 
-["0.0-5.4"]
-GenericSVD = "0.0.2-0.2"
+["4-4.7"]
+Roots = "0.2.1 - 0.8"
 
-["0.0.2-0.0.3"]
-ParameterizedFunctions = "0.1-4.1"
+["4-5.14"]
+NLsolve = "0.14.1-4"
+Reexport = "0.0.0 - 0.2"
 
-["0.1.0"]
-Juno = "0.1-0.7"
+["4-5.3"]
+ForwardDiff = "0.7.0 - 0.10"
+StaticArrays = "0.0.0 - 0.12"
 
-["0.1.1"]
-DiffEqBase = "0.1.2-0.6"
-
-["0.1.1-0.6"]
-RecursiveArrayTools = "0.0.2-0.12"
-
-["0.1.1-4.2"]
-Juno = "0.2.5-0.7"
-
-["0.2-0.5"]
-DiffEqBase = "0.2-0.6"
-
-["0.2-2.16"]
-Calculus = "0.1.15-0.4"
-
-["0.6"]
-DiffEqBase = "0.4-0.6"
-
-["1.0"]
-DiffEqBase = "0.6-0.7"
-
-["1.0-1.1"]
-RecursiveArrayTools = "0.1.2-0.12"
-
-["1.0-2.21"]
-NLsolve = "0.9.1-0.13"
-
-["1.0-4.18"]
-DataStructures = "0.4.6-0.15"
-
-["1.0-4.7"]
-Roots = "0.2.1-0.8"
-
-["1.1"]
-DiffEqBase = "0.7"
-
-["1.1-2.4"]
-Iterators = "0.1-0.3"
-
-["1.2-1.3"]
-DiffEqBase = "0.8-0.14"
-
-["1.2-2.0.2"]
-RecursiveArrayTools = "0.2-0.12"
-
-["1.4-1.5"]
-DiffEqBase = "0.11-0.14"
-
-["1.5-2.0.1"]
-Compat = "0.17-2.1"
-
-["1.6-1.7"]
-DiffEqBase = "0.13-0.14"
-
-["1.8"]
-DiffEqBase = "0.15-1.14"
-
-["2.0.0-2.0.2"]
-DiffEqBase = "1.1-1.14"
-
-["2.0.2-4.2"]
-Compat = "0.18-2.1"
-
-["2.0.3-2.1"]
-DiffEqBase = "1.3-1.14"
-
-["2.0.3-2.2.0"]
-RecursiveArrayTools = "0.6-0.12"
-
-["2.10-2.11"]
-DiffEqBase = "1.15"
-
-["2.12-2.13"]
-DiffEqBase = "1.16-1.18"
-MuladdMacro = "0.0-0.2"
-
-["2.14-2.18"]
-DiffEqBase = "1.20-1.24"
-
-["2.14-4.5"]
-MuladdMacro = "0.0.2-0.2"
-
-["2.14-5.3"]
-StaticArrays = "0.0-0.10"
-
-["2.17-2.30"]
-RecursiveArrayTools = "0.12"
-
-["2.19"]
-DiffEqBase = "1.23-1.24"
-
-["2.2-2.5"]
-DiffEqBase = "1.5-1.14"
-
-["2.2.1-2.4"]
-RecursiveArrayTools = "0.7.1-0.12"
-
-["2.20"]
-DiffEqBase = "1.24.1"
-
-["2.21-2.25"]
-DiffEqBase = "2.0-5.5"
-
-["2.22-2.37"]
-NLsolve = "0.12.1-0.13"
-
-["2.25-2.28"]
-DiffEqDiffTools = "0.1"
-
-["2.26-2.29"]
-DiffEqBase = "2.4-5.5"
-
-["2.27-5.3"]
-ForwardDiff = "0.7-0.10"
-
-["2.29-2.37"]
-DiffEqDiffTools = "0.2-0.8"
-
-["2.3-2.5"]
-StaticArrays = "0.0-0.10"
-
-["2.30-2.31"]
-DiffEqBase = "2.6-5.5"
-
-["2.31-4.21.0"]
-RecursiveArrayTools = "0.13-0.20"
-
-["2.32-2.33"]
-DiffEqBase = "2.8-5.5"
-
-["2.34-2.37"]
-DiffEqBase = "2.10-5.5"
-
-["2.5-2.16"]
-RecursiveArrayTools = "0.8-0.12"
-
-["2.5-2.24"]
-DiffEqDiffTools = "0.0.2"
-
-["2.5-2.26"]
-ForwardDiff = "0.5"
-
-["2.5-3.21"]
-julia = "0.6-0.7"
-
-["2.6-2.7"]
-DiffEqBase = "1.10-1.14"
-
-["2.7-5.4"]
-Reexport = "0.0-0.2"
-
-["2.8-2.9"]
-DiffEqBase = "1.11-1.14"
-
-["3.0"]
-DiffEqBase = "3.0-5.5"
-
-["3.0-3.1"]
-DiffEqDiffTools = "0.3-0.8"
-
-["3.0.0"]
-NLsolve = "0.12.1-4.0"
-
-["3.0.1-5.4"]
-NLsolve = "0.14.1-4.0"
-
-["3.1-3.6"]
-DiffEqBase = "3.3-5.5"
-
-["3.2-5.4"]
-DiffEqDiffTools = "0.4-0.8"
-
-["3.4-3.14"]
-Expokit = "0.0-0.2"
-
-["3.5-4.1"]
-DiffEqOperators = "0.0-3.4"
-
-["3.7-4.13"]
-DiffEqBase = "3.8-5.5"
-
-["4.0-4.13"]
-julia = "0.7-1.2"
+["4-5.6.0"]
+DiffEqDiffTools = "0.4.0 - 0.14"
+GenericSVD = "0.0.2 - 0.2"
 
 ["4.10-4.14"]
-ExponentialUtilities = "1.0-1.4"
+ExponentialUtilities = "1"
 
-["4.11.1-5.4"]
-Parameters = "0.10"
+["4.11.1-5.6.0"]
+Parameters = "0.10.0 - 0.12"
 
 ["4.14-4.15"]
-DiffEqBase = "4.27-5.5"
+DiffEqBase = "4.27-5"
 
-["4.14-5.4"]
-julia = "1.0-1.2"
+["4.14-5.31"]
+julia = "1"
 
-["4.15-5.4"]
-ExponentialUtilities = "1.2-1.4"
+["4.15-5.6.0"]
+ExponentialUtilities = "1.2-1"
 
-["4.16-4.21"]
-DiffEqBase = "4.29-5.5"
+["4.16-4"]
+DiffEqBase = "4.29-5"
 
-["4.19-5.4"]
-DataStructures = "0.15"
+["4.19-5.6.0"]
+DataStructures = "0.15.0 - 0.17"
 
-["4.21.1-5.4"]
-RecursiveArrayTools = "0.18.6-0.20"
+["4.21.1-5.6.0"]
+RecursiveArrayTools = "0.18.6 - 0.20"
 
-["4.6-5.4"]
-MuladdMacro = "0.2.1"
+["4.6-5.6.0"]
+MuladdMacro = "0.2.1 - 0.2"
 
-["4.7-5.4"]
-DiffEqOperators = "3.2-3.4"
+["4.7-5.6.0"]
+DiffEqOperators = "3.2-3"
 
 ["4.8-4.15"]
-Roots = "0.7-0.8"
+Roots = "0.7.0 - 0.8"
 
 ["5.0"]
-DiffEqBase = "5.0-5.5"
+DiffEqBase = "5"
 
 ["5.1"]
-DiffEqBase = "5.1-5.5"
+DiffEqBase = "5.1-5"
+
+["5.11"]
+DiffEqDiffTools = "0.13.0 - 0.14"
+
+["5.12-5.14"]
+DiffEqDiffTools = "0.14.0-1"
+SparseDiffTools = "0.3.0-0.9"
+
+["5.14-5.15"]
+DiffEqBase = "5.20.0-5"
+
+["5.14-5.23"]
+ArrayInterface = "1.1.0-1"
+
+["5.15-5"]
+MacroTools = "0.5"
+
+["5.15-5.18"]
+SparseDiffTools = "0.9"
+
+["5.15-5.19"]
+NLsolve = "4"
+
+["5.15-5.20"]
+StaticArrays = "0.11"
+
+["5.15-5.26"]
+RecursiveArrayTools = "1"
+
+["5.15-5.27"]
+DiffEqDiffTools = "1"
+
+["5.15-5.31"]
+GenericSVD = "0.2"
+
+["5.15-5.42.3"]
+DataStructures = "0.17"
+
+["5.15-5.46"]
+Reexport = "0.2"
+
+["5.15.0"]
+Parameters = "0.11"
+
+["5.15.1-5.16"]
+Parameters = "0.10-0.11"
+
+["5.16-5.17"]
+DiffEqBase = "6"
+
+["5.17-5.29"]
+Parameters = "0.10-0.12"
+
+["5.18-5.23"]
+DiffEqBase = "6.4.0-6"
+
+["5.19-5.22"]
+SparseDiffTools = "0.9-0.10"
 
 ["5.2-5.3"]
-DiffEqBase = "5.3.2-5.5"
+DiffEqBase = "5.3.2-5"
+
+["5.21-5.45"]
+StaticArrays = "0.11-0.12"
+
+["5.23"]
+SparseDiffTools = "0.10"
+
+["5.24-5.26"]
+DiffEqBase = "6.5.0-6"
+
+["5.24-5.29"]
+SparseDiffTools = ["0.10", "1"]
+
+["5.24-5.31"]
+ArrayInterface = "1.1.0-2"
+
+["5.27"]
+DiffEqBase = "6.11.0-6"
+
+["5.27-5"]
+RecursiveArrayTools = "2"
+
+["5.28"]
+DiffEqBase = "6.13.0-6"
+
+["5.28-5"]
+FiniteDiff = "2"
+
+["5.29"]
+DiffEqBase = "6.15.0-6"
+
+["5.30-5"]
+NLsolve = "4.3.0-4"
+
+["5.30-5.31"]
+DiffEqBase = "6.21.0-6"
+
+["5.30-5.35"]
+UnPack = "0.1"
+
+["5.30-5.36"]
+SparseDiffTools = "1.4.0-1"
+
+["5.32"]
+ArrayInterface = "2.6.0-2"
+
+["5.32-5"]
+GenericSVD = "0.2-0.3"
+julia = "1.3.0-1"
+
+["5.32-5.35.1"]
+DiffEqBase = "6.25.0-6"
+
+["5.33-5.49"]
+ArrayInterface = "2.7.0-2"
+
+["5.35.2-5.36"]
+DiffEqBase = "6.31.0-6"
+
+["5.36-5"]
+UnPack = ["0.1", "1"]
+
+["5.37-5"]
+SparseDiffTools = "1.8.0-1"
+
+["5.37-5.38"]
+DiffEqBase = "6.33.0-6"
+
+["5.39-5.41"]
+DiffEqBase = "6.36.0-6"
 
 ["5.4"]
-DiffEqBase = "5.5.1"
-ForwardDiff = "0.10.3"
-StaticArrays = "0.10.3"
+DiffEqBase = "5.5.1-5"
+
+["5.4-5"]
+ForwardDiff = "0.10.3-0.10"
+
+["5.4-5.8.0"]
+StaticArrays = "0.10.3-0.10"
+
+["5.40-5.47"]
+Adapt = "1.1.0-2"
+
+["5.42-5"]
+DiffEqBase = "6.38.0-6"
+
+["5.42.1-5"]
+FastClosures = "0.3"
+
+["5.42.4-5"]
+DataStructures = "0.18"
+
+["5.46-5"]
+StaticArrays = ["0.11-0.12", "1"]
+
+["5.47-5"]
+Reexport = ["0.2", "1"]
+
+["5.48-5"]
+Adapt = "1.1.0-3"
+
+["5.5-5.6"]
+DiffEqBase = "5.6.3-5.19"
+
+["5.50-5"]
+ArrayInterface = "2.7.0-3"
+
+["5.6.1-5"]
+ExponentialUtilities = "1.2.0-1"
+MuladdMacro = "0.2.1-0.2"
+
+["5.6.1-5.10"]
+DiffEqDiffTools = "0.4.0-1"
+
+["5.6.1-5.13"]
+DiffEqOperators = "3.2.0-3"
+
+["5.6.1-5.14"]
+DataStructures = "0.15.0-0.17"
+GenericSVD = "0.0.2-0.2"
+Parameters = "0.10.0-0.11"
+RecursiveArrayTools = "0.18.6-1"
+
+["5.7"]
+DiffEqBase = "5.8.1-5.19"
+
+["5.8-5.13"]
+DiffEqBase = "5.10.0-5.19"
+
+["5.8.1-5.14"]
+StaticArrays = "0.10.3-0.11"

@@ -1,13 +1,14 @@
-["0.1"]
-Expokit = "0.1"
-LightGraphs = "0.1-1.2"
-julia = "0.6"
+[0]
+Arpack = "0.0.0 - 0.4"
 
-["0.1-0.2"]
-Optim = "0.1-0.18"
+["0-0.2.1"]
+Expokit = "0.2.0 - 0.2"
+LightGraphs = "1"
+Optim = "0.0.0 - 0.22"
+julia = ["0.7", "1"]
 
-["0.2"]
-Arpack = "0.1-0.3"
-Expokit = "0.2"
-LightGraphs = "1.0-1.2"
-julia = "0.7-1.2"
+["0.2.2-0"]
+Expokit = "0.0.0 - 0.2"
+LightGraphs = "1.3.0-1"
+Optim = "0.0.0 - 1"
+julia = "1"

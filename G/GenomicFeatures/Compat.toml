@@ -1,33 +1,45 @@
-["0.1"]
-IntervalTrees = "0.2-1.0"
+[1]
+BioCore = "2.0.2-2"
+BioSequences = "1"
+BufferedStreams = "1"
+Libz = "1"
+julia = ["0.7", "1"]
 
-["0.1-0.2"]
-Automa = "0.2-0.8"
-BGZFStreams = "0.1-0.3"
-BioCore = "1.0-2.0"
-BioSequences = "0.6-1.1"
-BufferedStreams = "0.3-1.0"
-ColorTypes = "0.5-0.7"
-Compat = "0.18-2.1"
-DataStructures = "0.5-0.15"
-FixedPointNumbers = "0.3-0.5"
-Libz = "0.2-1.0"
-URIParser = "0.1-0.4"
-julia = "0.5-0.7"
+[1-2]
+IntervalTrees = "1"
 
-["0.2"]
-IntervalTrees = "0.3-1.0"
+["1.0.0"]
+Automa = "0.7.0 - 0.8"
+BGZFStreams = "0.3.0 - 0.3"
+ColorTypes = "0.7.4 - 0.8"
+DataStructures = "0.11.0 - 0.17"
+FixedPointNumbers = "0.5.2-0.5"
+URIParser = "0.4.0 - 0.4"
 
-["1.0"]
+["1.0.1-1"]
 Automa = "0.7-0.8"
 BGZFStreams = "0.3"
-BioCore = "2.0.2-2.0.5"
-BioSequences = "1.0-1.1"
-BufferedStreams = "1.0"
-ColorTypes = "0.7.4-0.7.5"
-DataStructures = "0.11-0.15"
-FixedPointNumbers = "0.5.2-0.5.3"
-IntervalTrees = "1.0"
-Libz = "1.0"
 URIParser = "0.4"
-julia = "0.7-1.2"
+
+["1.0.1-1.0.2"]
+ColorTypes = "0.7.4-0.8"
+FixedPointNumbers = "0.5.2-0.6"
+
+["1.0.1-2.0.3"]
+DataStructures = "0.11-0.17"
+
+["1.0.3-1"]
+ColorTypes = "0.7.4-0.9"
+FixedPointNumbers = "0.5.2-0.7"
+
+[2]
+BioGenerics = "0.1"
+
+["2-2.0.2"]
+julia = "1.1.0-1"
+
+["2.0.3-2"]
+julia = "1"
+
+["2.0.4-2"]
+DataStructures = "0.11-0.18"
