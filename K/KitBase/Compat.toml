@@ -3,7 +3,6 @@ Conda = "1"
 FFTW = "1"
 FastGaussQuadrature = "0.2-0.4"
 FileIO = "1"
-JLD2 = "0.1-0.3"
 OffsetArrays = "1"
 Plots = "1"
 ProgressMeter = "1"
@@ -11,10 +10,13 @@ PyCall = "1"
 SpecialFunctions = ["0.7-0.10", "1"]
 julia = "1"
 
+["0-0.3"]
+JLD2 = "0.1-0.3"
+
 ["0.2-0.3.1"]
 Distributions = "0.24"
 
-["0.3.1-0"]
+["0.3.1-0.4.3"]
 CUDA = "2"
 
 ["0.3.2-0"]
@@ -27,3 +29,12 @@ TypedPolynomials = "0.2"
 
 ["0.3.6-0"]
 CSV = "0.8"
+
+["0.4-0"]
+JLD2 = "0.1-0.4"
+
+["0.4.2-0"]
+WriteVTK = "1"
+
+["0.4.4-0"]
+CUDA = "2-3"

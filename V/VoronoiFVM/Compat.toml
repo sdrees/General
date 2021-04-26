@@ -27,14 +27,38 @@ SparsityDetection = "0.3"
 ["0.10.0"]
 ExtendableGrids = "0.7.1-0.7"
 
-["0.10.1-0"]
+["0.10.1-0.10.12"]
 ExtendableGrids = "0.7.2-0.7"
+
+["0.10.13"]
+ExtendableSparse = "0.4"
+
+["0.10.13-0"]
+ExtendableGrids = "0.7.6-0.7"
+
+["0.10.14-0.10"]
+ExtendableSparse = "0.4.2-0.4"
 
 ["0.10.2-0"]
 GridVisualize = "0.1"
 
 ["0.10.3-0"]
 StaticArrays = ["0.12", "1"]
+
+["0.10.6-0"]
+RecursiveArrayTools = "2"
+
+["0.10.7-0"]
+JLD2 = "0.4.2-0.4"
+
+["0.11-0"]
+julia = "1.5.0-1"
+
+["0.11-0.11.3"]
+ExtendableSparse = "0.5.1-0.5"
+
+["0.11.4-0"]
+ExtendableSparse = "0.6"
 
 ["0.4.2-0.4"]
 Plots = "0.26"
@@ -71,7 +95,7 @@ ExtendableSparse = "0.2"
 ["0.6.5-0.8.4"]
 ExtendableSparse = "0.2.6-0.2"
 
-["0.8-0"]
+["0.8-0.10"]
 julia = "1.3.0-1"
 
 ["0.8.0"]
@@ -98,7 +122,7 @@ ExtendableGrids = "0.3"
 ["0.8.7-0.8.9"]
 ExtendableGrids = "0.4"
 
-["0.9-0"]
+["0.9-0.10.12"]
 ExtendableSparse = "0.3.4-0.3"
 
 ["0.9-0.9.1"]

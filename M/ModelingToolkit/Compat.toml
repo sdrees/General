@@ -72,8 +72,10 @@ Latexify = "0.11-0.13"
 
 [2-5]
 SafeTestsets = "0.0.1"
-TreeViews = "0.3"
 Unitful = "1.1.0-1"
+
+["2-5.13"]
+TreeViews = "0.3"
 
 ["3-3.1"]
 UnPack = "0.1"
@@ -108,7 +110,7 @@ SymbolicUtils = "0.5"
 ["3.17-5"]
 DataStructures = "0.17-0.18"
 
-["3.18-5"]
+["3.18-5.13"]
 Latexify = "0.11-0.14"
 
 ["3.2-3.3"]
@@ -169,14 +171,42 @@ DiffEqBase = "6.48.1-6"
 ["5.1-5"]
 DiffEqBase = "6.54.0-6"
 
-["5.10-5"]
+["5.10-5.11"]
 SymbolicUtils = "0.8.3-0.8"
 
 ["5.10.0"]
 Symbolics = "0.1"
 
-["5.10.1-5"]
+["5.10.1-5.12"]
 Symbolics = "0.1.2-0.1"
+
+["5.12-5.14.0"]
+SymbolicUtils = "0.8.3-0.9"
+
+["5.13-5.13.1"]
+Symbolics = "0.1.7-0.1"
+
+["5.13.2-5.14.0"]
+Symbolics = "0.1.8-0.1"
+
+["5.14-5"]
+AbstractTrees = "0.3"
+Latexify = "0.11-0.15"
+
+["5.14.1"]
+SymbolicUtils = "0.10"
+
+["5.14.1-5.14.3"]
+Symbolics = "0.1.14-0.1"
+
+["5.14.2"]
+SymbolicUtils = "0.10.1-0.10"
+
+["5.14.3-5"]
+SymbolicUtils = "0.11"
+
+["5.14.4-5"]
+Symbolics = "0.1.21-0.1"
 
 ["5.2-5"]
 ArrayInterface = "2.8.0-3"

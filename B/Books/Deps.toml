@@ -1,0 +1,26 @@
+[0]
+Latexify = "23fbe1c1-3f47-55db-b15f-69d7ec21a316"
+LiveServer = "16fef848-5104-11e9-1b77-fb7a48bbb589"
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
+
+["0.1.1-0"]
+Memoize = "c03570c3-d221-55d1-a50c-7939bbd78826"
+
+["0.1.2-0"]
+Markdown = "d6f4376e-aef5-505a-96c1-9c027394607a"
+
+["0.1.4-0"]
+Tectonic = "9ac5f52a-99c6-489f-af81-462ef484790f"
+pandoc_crossref_jll = "f96e3c25-ae70-5588-8d8e-4a7ab3ba4c45"
+pandoc_jll = "c5432543-76ad-5c9d-82bf-db097047a5e2"
+
+["0.2-0"]
+Compose = "a81c6b42-2e10-5240-aca2-a61377ecd94b"
+
+["0.3-0"]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+
+["0.3.3-0"]
+CodeTracking = "da1fd8a2-8d9e-5ec2-8556-3022fb5608a2"

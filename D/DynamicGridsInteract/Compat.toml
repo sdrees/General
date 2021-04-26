@@ -53,5 +53,11 @@ DynamicGrids = "0.13"
 ["0.5.1"]
 DynamicGrids = "0.13-0.14"
 
-["0.5.2-0"]
+["0.5.2"]
 DynamicGrids = "0.13-0.15"
+
+["0.5.3"]
+DynamicGrids = "0.13-0.16"
+
+["0.5.4-0"]
+DynamicGrids = "0.13-0.17"
